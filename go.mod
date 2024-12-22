@@ -1,3 +1,3 @@
-module github.com/greensysio/package-sample
+module github.com/greensys-v2/package-sample
 
 go 1.22.2
